@@ -1,0 +1,56 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.m-t-50 {
+    margin-top: 50px;
+}
+
+.form__columns {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 50;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.m-l-50 {
+    margin-left: 50px;
+}
+
+.w-57 {
+    width: 57%;
+}
+
+.w-300 {
+    width: 300px;
+}
+
+.info-header-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: -35px;
+  }
+
+  .m-t-20 {
+    margin-top: 20px !important;
+  }
+
+  .review-select {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 22px;
+    margin-left: 22px;
+  }
+
+  .review-dialog {
+    width: 800px;
+  }

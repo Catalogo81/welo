@@ -1,0 +1,15 @@
+.view-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10px;
+  }
+
+  .info-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 50px;
+  }
